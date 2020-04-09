@@ -3,4 +3,4 @@
 
  Repositorio criado em Aula Ao Vivo
 
-Essa linha eu adicionei diretamente do GitHub web... Impressionante
+Essa linha eu adicionei diretamente do **GitHub** web... *Impressionante*
