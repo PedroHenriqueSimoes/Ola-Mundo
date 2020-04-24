@@ -13,7 +13,7 @@ O famoso programa "olá mundo" em todas as langs que eu sei, quais são elas?
 
 Sou um estudante de programação apaixonado por tecnologia, atualmente, estou aprendendo as linguagens de programação *C/C++*, *Python*, *JavaScript*, e, também estou aprendendo *HTML* e *CSS*
 
-Tenho atualmente 15 anos, e estou estudando git/github pelo [curso em video](https://www.youtube.com/cursoemvideo), também tenho outras fontes de aprendizado como o curso de Javascript da [rockeseat](https://skylab.rocketseat.com.br/journey/starter) e alguns ebooks que gosto de ler.
+Tenho atualmente 15 anos, e estou estudando git/github pelo [curso em video](https://www.youtube.com/cursoemvideo), também tenho outras fontes de aprendizado como o curso de Javascript da [rocketseat](https://skylab.rocketseat.com.br/journey/starter) e alguns ebooks que gosto de ler.
 
 ### Muito obrigado por ler meu repositorio de introdução !
 
